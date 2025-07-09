@@ -40,7 +40,7 @@ MTB_TYPE=COMBINED
 # To change the target, it is recommended to use the Library manager
 # ('make library-manager' from command line), which will also update Eclipse IDE launch
 # configurations.
-TARGET=APP_KIT_PSoC4-HVMS-64K_LITE
+TARGET=APP_KIT_PSOC4-HVMS-64K_LITE
 
 # Name of application (used to derive name of final linked file).
 #
